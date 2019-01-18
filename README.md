@@ -1,0 +1,3 @@
+1-18-19 AM exercise about practicing application architecture
+
+'Today you're going to learn the beginning of application architecture. As your apps become more complex, it is easy for the performance of your app to degrade, and your code to become a tangle of selectors and event listeners. We'll be looking at how you can avoid this by creating distinct functions with single responsibilities, and using a data representation for all the dynamic content in the DOM.'
